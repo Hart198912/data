@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "LNavOpened": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}},\"6156487476843089\":{\"fieldsWarned\":{}}}}",
         "Assets_SkipConfirm_2502775700152061": "false",
@@ -16,7 +16,7 @@
     },
     "currentVersion": "1.12.14",
     "username": "Hailee ",
-    "active_character": "Izlan Tan.png",
+    "active_character": "Padme Amidala.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -231,7 +231,6 @@
         "confirm_message_delete": true,
         "sort_field": "name",
         "sort_order": "asc",
-        "sort_rule": null,
         "font_scale": 1,
         "blur_strength": 10,
         "shadow_width": 2,
@@ -2434,6 +2433,16 @@
             "create_date": 1746758053736
         },
         {
+            "id": "6c03db26-c259-46ad-a4e1-ab3d8c5cfd49",
+            "name": "AshesofourYouth",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747164097398
+        },
+        {
             "id": "6b5268e1-63c9-494d-926f-c4d4a1535011",
             "name": "AshfordBrothers",
             "folder_type": "NONE",
@@ -2552,6 +2561,16 @@
             "color": "",
             "color2": "",
             "create_date": 1746757626578
+        },
+        {
+            "id": "caf4462c-aaeb-4b81-8f04-540a9bb63203",
+            "name": "DetroitRenegades",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747161767018
         },
         {
             "id": "64184983-da6f-4bb8-a470-26b480849bdf",
@@ -2674,6 +2693,16 @@
             "create_date": 1746923734036
         },
         {
+            "id": "0830ba43-d9c9-4643-819c-11511938134a",
+            "name": "Mythology",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747162238514
+        },
+        {
             "id": "84b6eec3-7a90-4a41-ace7-21b81827c81c",
             "name": "NYUseries",
             "folder_type": "NONE",
@@ -2692,6 +2721,26 @@
             "color": "",
             "color2": "",
             "create_date": 1746757815487
+        },
+        {
+            "id": "db4f8f32-d33d-4eab-bed6-a81cfbf9da12",
+            "name": "Outerbanks",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747169531895
+        },
+        {
+            "id": "0047c506-0121-4306-a0ff-9252546d1c2f",
+            "name": "PercyJackson",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747162233716
         },
         {
             "id": "69eaee9b-7154-41b3-9fb5-ce98ff5c63db",
@@ -2722,6 +2771,26 @@
             "color": "",
             "color2": "",
             "create_date": 1746755769945
+        },
+        {
+            "id": "623a1aac-0e1d-4f9e-a88f-99668bebc1a3",
+            "name": "RumRosesRuin",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747168611463
+        },
+        {
+            "id": "c97c2881-37c6-4216-8e37-840c8b17fbcb",
+            "name": "SBCF",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747161339856
         },
         {
             "id": "37385f6c-5580-4ff2-ac16-ef4a298f044d",
@@ -3238,7 +3307,9 @@
         "Landon Ashford.png": [],
         "Landon Reynolds.png": [],
         "Lara Croft.png": [],
-        "Lars Leblanc.png": [],
+        "Lars Leblanc.png": [
+            "cab6780b-866c-45b6-aa06-1516a16a29e4"
+        ],
         "Lavinia Malravenne  Slytherin.png": [],
         "Layla Montague  Vacation Housewives.png": [],
         "Layla Montague  Vacation Housewives1.png": [],
@@ -3302,7 +3373,6 @@
         "Only One Bed With Bandmate (WLW) - Haile.png": [],
         "Oscar Collins.png": [],
         "Owen.png": [],
-        "Padme Amidala  Reluctant Body Gaurd.png": [],
         "Paige Morgan  Your Secret FWB.png": [],
         "Paying Your Debt (WLW) - Anya.png": [],
         "Percy Cheong.png": [],
@@ -3346,7 +3416,9 @@
         "Sam.png": [],
         "Samuel Reyes.png": [],
         "Sandra Jones  Cedarbrook.png": [],
-        "Sarah Cameron.png": [],
+        "Sarah Cameron.png": [
+            "db4f8f32-d33d-4eab-bed6-a81cfbf9da12"
+        ],
         "Sasha Monroe  The Velvet Mirage.png": [],
         "Sasha Volkov.png": [],
         "Savio Vescovi.png": [],
@@ -3436,7 +3508,57 @@
         "Dorian Westwood.png": [
             "484a2daa-f87e-4b6d-9d62-3ca50f38cfbc",
             "8a3b9e8c-567f-4988-9bc5-4e9cb42d3bdd"
-        ]
+        ],
+        "Irene Kolman.png": [],
+        "Cassandra Doyle  SBCF.png": [
+            "c97c2881-37c6-4216-8e37-840c8b17fbcb"
+        ],
+        "Nolan Cross  Detroit Renegades.png": [
+            "caf4462c-aaeb-4b81-8f04-540a9bb63203"
+        ],
+        "Atticus.png": [],
+        "Luca Wheel Rossi  Detroit Renegade.png": [],
+        "Nate1.png": [
+            "64184983-da6f-4bb8-a470-26b480849bdf",
+            "f3bc1d0a-29b9-4ce4-bc28-683dc2c37d2d"
+        ],
+        "Annabeth Chase.png": [],
+        "Annabeth Chase1.png": [
+            "0047c506-0121-4306-a0ff-9252546d1c2f",
+            "0830ba43-d9c9-4643-819c-11511938134a"
+        ],
+        "Raven Knox  The Grinch Who Stole Your Sanity.png": [],
+        "Marié Lefèvre.png": [],
+        "Jessica Bamford.png": [],
+        "Valeria Castillo  Granddaughter's bff  Futa.png": [],
+        "Ellie  Your Half-sister.png": [],
+        "Nina  The Velvet Mirage.png": [
+            "c2697999-d285-4e88-b39d-6a6e064db57b"
+        ],
+        "Mikey Ross.png": [],
+        "Kellin Beckett.png": [
+            "6c03db26-c259-46ad-a4e1-ab3d8c5cfd49"
+        ],
+        "Vic Havoc.png": [
+            "6c03db26-c259-46ad-a4e1-ab3d8c5cfd49"
+        ],
+        "Nena Fischer  Kappa Omega Theta.png": [],
+        "Lady Bonajade.png": [],
+        "Jennifer Reyes.png": [],
+        "Giselle Beaumont.png": [],
+        "Megan Sterling.png": [],
+        "Sandra Gallagher.png": [],
+        "Amirita Rita Levine.png": [],
+        "Penelope Nell Hayes.png": [],
+        "Heather Sinclair.png": [],
+        "Jordyn Ace Cooper.png": [],
+        "Nicholas Nico Vincent Bennett.png": [
+            "623a1aac-0e1d-4f9e-a88f-99668bebc1a3"
+        ],
+        "Luke Halloway.png": [],
+        "Walker Kahlo.png": [],
+        "Padme Amidala.png": [],
+        "Magnus1.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
