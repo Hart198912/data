@@ -2,26 +2,26 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "LNavOpened": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}},\"6156487476843089\":{\"fieldsWarned\":{}}}}",
         "Assets_SkipConfirm_2502775700152061": "false",
         "Personas_PerPage": "5",
         "Personas_GridView": "false",
         "WINavOpened": "true",
-        "Characters_PerPage": "10",
+        "Characters_PerPage": "500",
         "SelectedNavTab": "rm_button_characters",
         "AlertWI_Ash Thalassios.png": "true",
-        "NavLockOn": "true",
+        "NavLockOn": "false",
         "AlertWI_Elias Kallias.png": "true"
     },
     "currentVersion": "1.12.14",
     "username": "Hailee",
-    "active_character": "Matilde Vance.png",
+    "active_character": "Adonis 'Baron' Broussard.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
-    "user_avatar": "1746733452980-Hailee.png",
+    "user_avatar": "1746148707147-Hailee.png",
     "amount_gen": 350,
     "max_context": 8192,
     "main_api": "openai",
@@ -232,7 +232,6 @@
         "confirm_message_delete": true,
         "sort_field": "name",
         "sort_order": "asc",
-        "sort_rule": null,
         "font_scale": 1,
         "blur_strength": 10,
         "shadow_width": 2,
@@ -510,7 +509,7 @@
                 ]
             }
         },
-        "persona_description": "Name=Hailee Mikaelson. Species=Human. Sex/Gender=Female. Pronouns=She/Her. Age=21. Nationality=Italian, American. Ethnicity=Caucasian. Occupation=Student. Appearance=Tall, toned, pale, skinny. Hair=Long, Wavy, Light Brown. Eyes=Emerald Green,expressive. Outfit=She wears baggy and comfortable clothes like jeans and sweatshirts. Her outfits rarely showcase how wealthy she is. Accent=her regular accent has a slight southern twang. When she gets angry, her accent switches to a thick Italian accent. Speech={{user}} speaks like a casual young adult. She does switch to sophisticated Italian when she gets angry. She speaks both English and Italian perfectly. Personality=Shy, Charming, Dependent, Loyal, Obsessive, Respectful. Her best friends are Madison and Tyler. Quirks=can’t tell a lie to save her life and talks very fast. Mannerisms= she twirls her hair when bored, bites her lip when aroused or lost in thought. Likes=country music, Harry Potter, art, hair pulling. Dislikes=being alone, crowded places,snakes. Hobbies=playing guitar, video games, painting. Kinks=drinking blood, hair being pulled, being marked. [{{user}}'s Behavior During Sex: She is very submissive during sex. She likes being controlled and dominated by {{char}} even outside of sexual interaction. She loves being the center of attention during sex. She likes to have rough sex and be used for {{char}} pleasure.\nPenis: Large 13 inch cock that is so girthy {{char}} can't fit her hand around it and it doesn't fit in her mouth or pussy. Its veiny and curved towards her stomach",
+        "persona_description": "Name=Hailee Mikaelson. Species=Human. Sex/Gender=Female. Pronouns=She/Her. Age=16. Nationality=Italian, American. Ethnicity=Caucasian. Occupation=Student. Appearance=Tall, toned, pale, skinny. Hair=Long, Wavy, Light Brown. Eyes=Emerald Green,expressive. Outfit=She wears baggy and comfortable clothes like jeans and sweatshirts. Her outfits rarely showcase how wealthy she is. Accent=her regular accent has a slight southern twang. When she gets angry, her accent switches to a thick Italian accent. Speech={{user}} speaks like a casual young adult. She does switch to sophisticated Italian when she gets angry. She speaks both English and Italian perfectly. Personality=Shy, Charming, Dependent, Loyal, Obsessive, Respectful. Her best friends are Madison and Tyler. Quirks=can’t tell a lie to save her life and talks very fast. Mannerisms= she twirls her hair when bored, bites her lip when aroused or lost in thought. Likes=country music, Harry Potter, art, hair pulling. Dislikes=being alone, crowded places,snakes. Hobbies=playing guitar, video games, painting. Kinks=drinking blood, hair being pulled, being marked. [{{user}}'s Behavior During Sex: She is very submissive during sex. She likes being controlled and dominated by {{char}} even outside of sexual interaction. She loves being the center of attention during sex. She likes to have rough sex and be used for {{char}} pleasure.",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
@@ -2497,6 +2496,16 @@
             "create_date": 1746974286305
         },
         {
+            "id": "954cb799-d89d-4a06-815e-18c7fbbddf89",
+            "name": "AustinCoyotes",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747506127251
+        },
+        {
             "id": "96cc73b4-8e1d-4d12-9093-49451a32e8ea",
             "name": "Basementboys",
             "folder_type": "NONE",
@@ -2517,6 +2526,16 @@
             "create_date": 1746923764906
         },
         {
+            "id": "88a13fbf-5a2b-4d27-b3e7-ba31327bfbfb",
+            "name": "BlackHeartsandRoses",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747501760187
+        },
+        {
             "id": "b28d9bb0-d8d0-4f24-8fb9-7d4099a64a21",
             "name": "BostonYellojackets",
             "folder_type": "NONE",
@@ -2535,6 +2554,26 @@
             "color": "",
             "color2": "",
             "create_date": 1746923752947
+        },
+        {
+            "id": "33e963a9-d279-4dd6-9bea-f1633c580db6",
+            "name": "BratvaWorld",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747503149786
+        },
+        {
+            "id": "94818ded-ba99-42fd-84b8-9f7a832e579d",
+            "name": "btc2025",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747506312374
         },
         {
             "id": "38ff198a-2931-47e8-90aa-6b5bfaba353b",
@@ -2575,6 +2614,16 @@
             "color": "",
             "color2": "",
             "create_date": 1747092060405
+        },
+        {
+            "id": "760c8cee-6766-4c27-9521-72491903bc47",
+            "name": "CultofAsh",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747502873861
         },
         {
             "id": "73c6d9a7-03b1-4bf3-9c37-ee53141527be",
@@ -2727,6 +2776,26 @@
             "create_date": 1747083184638
         },
         {
+            "id": "6ee404cb-f2cb-4af2-920d-a359044bbfe9",
+            "name": "HerculesUniversity",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747502981374
+        },
+        {
+            "id": "9958754a-7519-49f9-9da6-797d00555c58",
+            "name": "HuntBrothers",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747503461452
+        },
+        {
             "id": "efdc35d0-ab45-4cf0-9156-f3389d1a5cf5",
             "name": "KappaOmegaTheta",
             "folder_type": "NONE",
@@ -2745,6 +2814,16 @@
             "color": "",
             "color2": "",
             "create_date": 1746923734036
+        },
+        {
+            "id": "122bbe75-3fd4-4cd1-b2bc-41ae9c4049d0",
+            "name": "MiamiRacers",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747500085994
         },
         {
             "id": "0830ba43-d9c9-4643-819c-11511938134a",
@@ -2785,6 +2864,16 @@
             "color": "",
             "color2": "",
             "create_date": 1746757815487
+        },
+        {
+            "id": "da91201b-126b-4bd0-8692-5c0043f64e42",
+            "name": "ObsidianWolves",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747502558572
         },
         {
             "id": "db4f8f32-d33d-4eab-bed6-a81cfbf9da12",
@@ -2835,6 +2924,16 @@
             "color": "",
             "color2": "",
             "create_date": 1747084767094
+        },
+        {
+            "id": "71b9633d-c813-49df-b47c-5e3ccba124c6",
+            "name": "ReaperCombo",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747506304174
         },
         {
             "id": "1de96a22-4e6b-4d86-be81-da550021605a",
@@ -2923,6 +3022,16 @@
             "create_date": 1746916759015
         },
         {
+            "id": "e9fa1bda-1d25-4935-a4cd-04e341a257d5",
+            "name": "SummerJam",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747506935850
+        },
+        {
             "id": "6e3315ca-0025-45fe-9db9-8d309d9dbca2",
             "name": "TheArena",
             "folder_type": "NONE",
@@ -2933,6 +3042,16 @@
             "create_date": 1746758063465
         },
         {
+            "id": "e9a39767-0e1a-4589-b7b8-c4df53435c17",
+            "name": "theFirm",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747504905200
+        },
+        {
             "id": "6ad9cd81-9b0d-4bc5-a2ab-0acc029b1c3b",
             "name": "TheLuce",
             "folder_type": "NONE",
@@ -2941,6 +3060,16 @@
             "color": "",
             "color2": "",
             "create_date": 1746826693029
+        },
+        {
+            "id": "7d96fd08-1cd5-440d-981e-1a47f17b315c",
+            "name": "theNocturnum",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747502718385
         },
         {
             "id": "752f044d-b0d9-4472-8997-8f3093651556",
@@ -3023,6 +3152,26 @@
             "create_date": 1746755750812
         },
         {
+            "id": "65a65bd8-68ff-4ed5-904b-8bfb6667745b",
+            "name": "Yellowjackets",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747504285667
+        },
+        {
+            "id": "917cb82e-984d-44de-8f9f-508d0e672fea",
+            "name": "Yelowjackets",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1747504261268
+        },
+        {
             "id": "484a2daa-f87e-4b6d-9d62-3ca50f38cfbc",
             "name": "Zodiackillers",
             "folder_type": "NONE",
@@ -3055,7 +3204,9 @@
         "Adonis 'Baron' Broussard.png": [
             "cab6780b-866c-45b6-aa06-1516a16a29e4"
         ],
-        "Aiden Steele.png": [],
+        "Aiden Steele.png": [
+            "122bbe75-3fd4-4cd1-b2bc-41ae9c4049d0"
+        ],
         "Aimé Brutus Nadine ;; Your Loyal Dog.png": [],
         "Ajax Darkh.png": [
             "73c6d9a7-03b1-4bf3-9c37-ee53141527be",
@@ -3070,17 +3221,27 @@
         "Alaric Graves.png": [
             "484a2daa-f87e-4b6d-9d62-3ca50f38cfbc"
         ],
-        "Alec Lane.png": [],
+        "Alec Lane.png": [
+            "74cd2609-30b0-4cdb-b733-acd93928b4d6"
+        ],
         "Alessio De Luca.png": [
             "4dc5d324-3991-4e29-965e-fe7a6be98945"
         ],
         "Alessio Krasnov.png": [
             "1de96a22-4e6b-4d86-be81-da550021605a"
         ],
-        "Alexi Morozov  Jealousy.png": [],
-        "Aloy Stiles  The Crooked Man.png": [],
-        "Alyssa Rosande.png": [],
-        "Andrei Petrov.png": [],
+        "Alexi Morozov  Jealousy.png": [
+            "da91201b-126b-4bd0-8692-5c0043f64e42"
+        ],
+        "Aloy Stiles  The Crooked Man.png": [
+            "7d96fd08-1cd5-440d-981e-1a47f17b315c"
+        ],
+        "Alyssa Rosande.png": [
+            "760c8cee-6766-4c27-9521-72491903bc47"
+        ],
+        "Andrei Petrov.png": [
+            "33e963a9-d279-4dd6-9bea-f1633c580db6"
+        ],
         "Andrew Jones.png": [
             "f3bc1d0a-29b9-4ce4-bc28-683dc2c37d2d",
             "64184983-da6f-4bb8-a470-26b480849bdf"
@@ -3109,14 +3270,19 @@
             "69eaee9b-7154-41b3-9fb5-ce98ff5c63db",
             "53fd48bf-69bd-40cf-9e8c-270819f83339"
         ],
-        "Asher Hardman.png": [],
+        "Asher Hardman.png": [
+            "a2da3084-974e-4ddc-98ab-bd2e7c7b458c"
+        ],
         "Asher King.png": [
             "69eaee9b-7154-41b3-9fb5-ce98ff5c63db",
             "53fd48bf-69bd-40cf-9e8c-270819f83339"
         ],
-        "Asher King1.png": [],
-        "Ashton Booth.png": [],
-        "Ashton Hunt.png": [],
+        "Ashton Booth.png": [
+            "bf0d3102-3b26-437d-8781-c09afe9aac8a"
+        ],
+        "Ashton Hunt.png": [
+            "9958754a-7519-49f9-9da6-797d00555c58"
+        ],
         "Aspen Hensley.png": [
             "73c6d9a7-03b1-4bf3-9c37-ee53141527be"
         ],
@@ -3172,8 +3338,6 @@
             "f3bc1d0a-29b9-4ce4-bc28-683dc2c37d2d",
             "64184983-da6f-4bb8-a470-26b480849bdf"
         ],
-        "Caleb Hughes  ALT.png": [],
-        "Caleb Hughes.png": [],
         "Cameron Cam Mercer.png": [],
         "Camile Beaumont.png": [],
         "Cammy Ito.png": [],
@@ -3223,7 +3387,8 @@
         "Conservative (WLW) - Laura.png": [],
         "Controlling Older Girlfriend - Ava.png": [],
         "Cullen Reynolds.png": [
-            "484a2daa-f87e-4b6d-9d62-3ca50f38cfbc"
+            "484a2daa-f87e-4b6d-9d62-3ca50f38cfbc",
+            "e9a39767-0e1a-4589-b7b8-c4df53435c17"
         ],
         "Cyrus.png": [],
         "Dallas Dillon.png": [],
@@ -3267,11 +3432,12 @@
         "Emily Primrose.png": [
             "5f0c7c11-f743-4512-b047-9d6657e16174"
         ],
-        "Enzo ALT.png": [],
         "Enzo Renaud.png": [
             "79fa14bc-9dd8-4e90-857a-876ff54a97a9"
         ],
-        "Ethan.png": [],
+        "Ethan.png": [
+            "73c6d9a7-03b1-4bf3-9c37-ee53141527be"
+        ],
         "Evander Sterling.png": [
             "4c5e79b9-d3b4-4f39-a0cb-698bc11a73f0",
             "f3bc1d0a-29b9-4ce4-bc28-683dc2c37d2d"
@@ -3298,21 +3464,26 @@
             "6ad9cd81-9b0d-4bc5-a2ab-0acc029b1c3b"
         ],
         "Grayson Calavero.png": [
-            "4aeb6aac-7bd7-4e2e-a135-0f823cf5bc3c"
+            "a0b557b6-5041-4806-bd2d-d078c0653773"
         ],
         "Grim.png": [
             "6e3315ca-0025-45fe-9db9-8d309d9dbca2"
         ],
         "GUARD DOG  Jakko.png": [],
         "Hannah & Nadia.png": [],
-        "Harlow Reed.png": [],
+        "Harlow Reed.png": [
+            "69eaee9b-7154-41b3-9fb5-ce98ff5c63db",
+            "53fd48bf-69bd-40cf-9e8c-270819f83339"
+        ],
         "Helen of Sparta.png": [],
         "Hot Headed Narcissist Knox.png": [],
         "Hunter Anderson1.png": [
             "399e29f0-a10c-461f-9619-b52e1af5859d",
             "a2da3084-974e-4ddc-98ab-bd2e7c7b458c"
         ],
-        "Hunter.png": [],
+        "Hunter.png": [
+            "73c6d9a7-03b1-4bf3-9c37-ee53141527be"
+        ],
         "Hyde.png": [
             "4dc5d324-3991-4e29-965e-fe7a6be98945"
         ],
@@ -3333,8 +3504,9 @@
         ],
         "Izlan Tan.png": [],
         "Jamson Jamie McField  Ex-playboy.png": [],
-        "Jared Red Clarke 0.1.png": [],
-        "Jared.png": [],
+        "Jared.png": [
+            "d1384539-b908-451c-980c-6bf4fc4e3ee4"
+        ],
         "Jarvis.png": [],
         "Jasmine.png": [
             "32d01dd4-8464-4b8b-a3c9-48e1df1f38ae"
@@ -3382,7 +3554,9 @@
         "Killian Dupre.png": [
             "cab6780b-866c-45b6-aa06-1516a16a29e4"
         ],
-        "Kim Hana  ✮SERENITY✮.png": [],
+        "Kim Hana  ✮SERENITY✮.png": [
+            "37385f6c-5580-4ff2-ac16-ef4a298f044d"
+        ],
         "Kimberly Kim Alcott.png": [],
         "Kirill and Daniil.png": [
             "78e322f0-5a40-4829-9e56-f7bff1d2f69d"
@@ -3393,8 +3567,12 @@
         "Knox Calavero.png": [
             "a0b557b6-5041-4806-bd2d-d078c0653773"
         ],
-        "Koen Davenport.png": [],
-        "Koizumi Ma-ri  ✭SERINITY✭.png": [],
+        "Koen Davenport.png": [
+            "71a8baa0-f1a9-4175-b86e-0dd0b99284eb"
+        ],
+        "Koizumi Ma-ri  ✭SERINITY✭.png": [
+            "37385f6c-5580-4ff2-ac16-ef4a298f044d"
+        ],
         "Kolya.png": [
             "1de96a22-4e6b-4d86-be81-da550021605a"
         ],
@@ -3413,7 +3591,9 @@
         "Lavinia Malravenne  Slytherin.png": [
             "f7362b34-8930-4681-a3ee-763d786ee060"
         ],
-        "Layla Montague  Vacation Housewives.png": [],
+        "Layla Montague  Vacation Housewives.png": [
+            "e5b9dc3a-5bab-4d8b-b13f-5c339895fa4f"
+        ],
         "Leah Bates  Best friend.png": [],
         "Lee Seul-gi  ✮SERENITY✮.png": [
             "37385f6c-5580-4ff2-ac16-ef4a298f044d"
@@ -3425,7 +3605,9 @@
         ],
         "LONELY NOBLE (WLW)  Elena Desmarais.png": [],
         "LOVESICK (WLW)  Diana Prince.png": [],
-        "Lucielle.png": [],
+        "Lucielle.png": [
+            "e9fa1bda-1d25-4935-a4cd-04e341a257d5"
+        ],
         "Lucien  Asshole Mafia CEO.png": [],
         "Lucien Ashford.png": [],
         "Lukas Beckett - Free Use.png": [
@@ -3433,58 +3615,109 @@
             "f3bc1d0a-29b9-4ce4-bc28-683dc2c37d2d"
         ],
         "Lydia Voss  Nightclub Owner.png": [],
-        "Lyndon Darkh.png": [],
-        "Mads.png": [],
+        "Lyndon Darkh.png": [
+            "73c6d9a7-03b1-4bf3-9c37-ee53141527be"
+        ],
+        "Mads.png": [
+            "954cb799-d89d-4a06-815e-18c7fbbddf89"
+        ],
         "Magnus.png": [],
-        "Maksim Krasnov  MAFIA.png": [],
+        "Maksim Krasnov  MAFIA.png": [
+            "1de96a22-4e6b-4d86-be81-da550021605a"
+        ],
         "Malachi Wyss.png": [],
-        "Marcelo.png": [],
-        "Marcus Valerius.png": [],
+        "Marcelo.png": [
+            "79fa14bc-9dd8-4e90-857a-876ff54a97a9",
+            "e9a39767-0e1a-4589-b7b8-c4df53435c17"
+        ],
+        "Marcus Valerius.png": [
+            "752f044d-b0d9-4472-8997-8f3093651556"
+        ],
         "Mason Graves.png": [],
         "Mason Tucker ➤ Ironwood Ranch.png": [],
-        "Matilde Vance.png": [],
+        "Matilde Vance.png": [
+            "71b9633d-c813-49df-b47c-5e3ccba124c6",
+            "94818ded-ba99-42fd-84b8-9f7a832e579d"
+        ],
         "Matthew Sinclair.png": [],
-        "Maxine.png": [],
+        "Maxine.png": [
+            "1de96a22-4e6b-4d86-be81-da550021605a"
+        ],
         "Megan Callister.png": [],
-        "Meiu.png": [],
+        "Meiu.png": [
+            "32d01dd4-8464-4b8b-a3c9-48e1df1f38ae"
+        ],
         "MERCY (WLW)  Queen Morwen.png": [],
-        "Merlin Lauvless.png": [],
+        "Merlin Lauvless.png": [
+            "760c8cee-6766-4c27-9521-72491903bc47"
+        ],
         "Mikaela  Toxic GF.png": [],
-        "Mikhail Valerius  Playboy 1.png": [],
+        "Mikhail Valerius  Playboy 1.png": [
+            "752f044d-b0d9-4472-8997-8f3093651556"
+        ],
         "Mikhail Zakharov.png": [],
         "Mila Torres.png": [],
         "Miranda.png": [],
-        "Mohan.png": [],
+        "Mohan.png": [
+            "4c5e79b9-d3b4-4f39-a0cb-698bc11a73f0",
+            "f3bc1d0a-29b9-4ce4-bc28-683dc2c37d2d",
+            "88a13fbf-5a2b-4d27-b3e7-ba31327bfbfb"
+        ],
         "Morgan Blackheart  Hellhound.png": [],
         "Morgan Brennan.png": [],
         "Morgan Vargas.png": [],
         "Nahri Shirazi  Psycho Nepo Baby.png": [],
-        "Natalie (Post-Crash).png": [],
+        "Natalie (Post-Crash).png": [
+            "65a65bd8-68ff-4ed5-904b-8bfb6667745b"
+        ],
         "Natalie (Pre-Crash).png": [],
-        "Nate.png": [],
         "Nathan & Zion.png": [],
         "Nayeli Santos.png": [],
         "Nicholas Minh.png": [],
         "Nicolai.png": [],
         "Niko.png": [],
-        "Niko1.png": [],
-        "Nikolai Mikhaylov.png": [],
+        "Niko1.png": [
+            "9d674272-8fd7-411e-83ec-4ef98cbe7b26"
+        ],
+        "Nikolai Mikhaylov.png": [
+            "33e963a9-d279-4dd6-9bea-f1633c580db6"
+        ],
         "Nina Petrova.png": [],
         "Noa Min.png": [],
-        "Noah Addison.png": [],
-        "Noah Harte.png": [],
+        "Noah Addison.png": [
+            "69eaee9b-7154-41b3-9fb5-ce98ff5c63db",
+            "53fd48bf-69bd-40cf-9e8c-270819f83339"
+        ],
+        "Noah Harte.png": [
+            "399e29f0-a10c-461f-9619-b52e1af5859d"
+        ],
         "Noah Morgan.png": [],
-        "Noelia Garcia  Vacation Hosuewives1.png": [],
-        "Nolan Carter.png": [],
+        "Noelia Garcia  Vacation Hosuewives1.png": [
+            "e5b9dc3a-5bab-4d8b-b13f-5c339895fa4f"
+        ],
+        "Nolan Carter.png": [
+            "b28d9bb0-d8d0-4f24-8fb9-7d4099a64a21"
+        ],
         "Olivia Hayes.png": [],
         "One Night Stand With Sister's Best Friend - Midori.png": [],
         "Only One Bed With Bandmate (WLW) - Haile.png": [],
-        "Oscar Collins.png": [],
-        "Owen.png": [],
-        "Paige Morgan  Your Secret FWB.png": [],
+        "Oscar Collins.png": [
+            "69eaee9b-7154-41b3-9fb5-ce98ff5c63db",
+            "53fd48bf-69bd-40cf-9e8c-270819f83339"
+        ],
+        "Owen.png": [
+            "64184983-da6f-4bb8-a470-26b480849bdf",
+            "f3bc1d0a-29b9-4ce4-bc28-683dc2c37d2d"
+        ],
+        "Paige Morgan  Your Secret FWB.png": [
+            "84b6eec3-7a90-4a41-ace7-21b81827c81c"
+        ],
         "Paying Your Debt (WLW) - Anya.png": [],
         "Percy Cheong.png": [],
-        "Pierce King1.png": [],
+        "Pierce King1.png": [
+            "69eaee9b-7154-41b3-9fb5-ce98ff5c63db",
+            "53fd48bf-69bd-40cf-9e8c-270819f83339"
+        ],
         "Pierson Chano.png": [],
         "PLAYGIRL (WLW)  Mariana Sandoval.png": [],
         "PRINCESS (WLW)  Louise.png": [],
@@ -3494,109 +3727,191 @@
         "Professor Bennett Johnson  Cedarbrook.png": [],
         "PUPPY GIRL (WLW)  Aspen.png": [],
         "QUICKFUCK (GL)  Amber.png": [],
-        "Quinn Primrose  Date Night Alt.png": [],
+        "Quinn Primrose  Date Night Alt.png": [
+            "5f0c7c11-f743-4512-b047-9d6657e16174"
+        ],
         "Raphael Rafe Vittori.png": [],
         "Raul Vittori.png": [],
         "RAVANA RIMON  STREET RACER BFF (GL).png": [],
         "Rebecca 'Bex' Moretti.png": [],
         "Rebecca McAllen.png": [],
         "Remi Reese  Crawford University.png": [],
-        "Ren Takahashi.png": [],
+        "Ren Takahashi.png": [
+            "34ec37e1-be28-4855-b1dc-0f67c920f908"
+        ],
         "Restricted Access (WLW)  Veronica Kane.png": [],
         "REWARD (WLW)  Charlotte “Charlie” Dupont.png": [],
         "Rich Girlfriend - Celine.png": [],
         "Riley Matthews  Fake Dating.png": [],
         "Rinaldo Vescari.png": [],
         "Robert Wilson  Cedarbrook.png": [],
-        "Roman Doyle.png": [],
+        "Roman Doyle.png": [
+            "bf0d3102-3b26-437d-8781-c09afe9aac8a"
+        ],
         "Roman Mikhailov.png": [],
-        "Ronan.png": [],
+        "Ronan.png": [
+            "9d674272-8fd7-411e-83ec-4ef98cbe7b26"
+        ],
         "Rory Dawson  Deal.png": [],
         "Rowen Quinn.png": [],
         "Ruby Madden.png": [],
         "Rusty Bryce.png": [],
         "Ryan Lewis.png": [],
         "Rylan Montague.png": [],
-        "Ryota Takahashi.png": [],
-        "Ryuji  Younger Version ALT.png": [],
-        "Ryūji Takahashi.png": [],
+        "Ryota Takahashi.png": [
+            "34ec37e1-be28-4855-b1dc-0f67c920f908"
+        ],
+        "Ryuji  Younger Version ALT.png": [
+            "34ec37e1-be28-4855-b1dc-0f67c920f908"
+        ],
+        "Ryūji Takahashi.png": [
+            "34ec37e1-be28-4855-b1dc-0f67c920f908"
+        ],
         "Saint Reeves  Badboy.png": [],
         "Sam.png": [],
-        "Samuel Reyes.png": [],
+        "Samuel Reyes.png": [
+            "d3d44bf0-3e16-4ed8-af73-669037af20dc"
+        ],
         "Sandra Jones  Cedarbrook.png": [],
         "Sarah Cameron.png": [
             "db4f8f32-d33d-4eab-bed6-a81cfbf9da12"
         ],
-        "Sasha Monroe  The Velvet Mirage.png": [],
+        "Sasha Monroe  The Velvet Mirage.png": [
+            "c2697999-d285-4e88-b39d-6a6e064db57b"
+        ],
         "Sasha Volkov.png": [],
         "Savio Vescovi.png": [],
-        "Saxon Norris.png": [],
+        "Saxon Norris.png": [
+            "bf0d3102-3b26-437d-8781-c09afe9aac8a"
+        ],
         "Scarlett Wolfe  Just Friends.png": [],
         "Scarlett Wolfe  Just Friends1.png": [],
         "Sebastian Hayes.png": [],
-        "Sebastien.png": [],
-        "Seiu and Kaede.png": [],
+        "Sebastien.png": [
+            "4c5e79b9-d3b4-4f39-a0cb-698bc11a73f0",
+            "f3bc1d0a-29b9-4ce4-bc28-683dc2c37d2d"
+        ],
+        "Seiu and Kaede.png": [
+            "37385f6c-5580-4ff2-ac16-ef4a298f044d"
+        ],
         "Selene Voga  The Velvet Mirage.png": [],
         "Seraphine Dexton ✦ Alpha.png": [],
         "SERENA MCLEOD  boyfriend’s sister.png": [],
         "Serena Wolfe  Best Friend's little sister.png": [],
-        "Serena.png": [],
+        "Serena.png": [
+            "32d01dd4-8464-4b8b-a3c9-48e1df1f38ae"
+        ],
         "Sheltered Roommate's First Festival (WLW) - Eve.png": [],
         "Shipped With Your Bandmate (WLW) - Rae.png": [],
-        "Silas  Cash Casinos.png": [],
+        "Silas  Cash Casinos.png": [
+            "4dc5d324-3991-4e29-965e-fe7a6be98945"
+        ],
         "Silas Whitshire  The Fool.png": [],
-        "Sleep Paralysis Demon.png": [],
-        "Sofia Vescoci  Stripper.png": [],
+        "Sleep Paralysis Demon.png": [
+            "7d96fd08-1cd5-440d-981e-1a47f17b315c"
+        ],
+        "Sofia Vescoci  Stripper.png": [
+            "6ad9cd81-9b0d-4bc5-a2ab-0acc029b1c3b"
+        ],
         "Soren.png": [],
-        "Stefania Ricci  Lead Singer.png": [],
+        "Stefania Ricci  Lead Singer.png": [
+            "923b6214-ebbb-44cc-bae0-f315cc856ce5"
+        ],
         "Stefano Caesari.png": [],
-        "Stelle.png": [],
+        "Stelle.png": [
+            "32d01dd4-8464-4b8b-a3c9-48e1df1f38ae"
+        ],
         "STEP-BROTHER  Vincent Evander.png": [],
         "Sugar Mommy  Reine Duvall.png": [],
         "Sutton Oakley  IO’s Bot Exchange.png": [],
         "Sybil D'Hondt.png": [],
         "Sydney Hartford  Possessive BFF.png": [],
-        "Tatiane Silva  Vacation Housewives1.png": [],
-        "Tavio Perez.png": [],
-        "The Boogeyman.png": [],
-        "The Dmitrievs.png": [],
+        "Tatiane Silva  Vacation Housewives1.png": [
+            "e5b9dc3a-5bab-4d8b-b13f-5c339895fa4f"
+        ],
+        "Tavio Perez.png": [
+            "53fd48bf-69bd-40cf-9e8c-270819f83339",
+            "69eaee9b-7154-41b3-9fb5-ce98ff5c63db"
+        ],
+        "The Boogeyman.png": [
+            "7d96fd08-1cd5-440d-981e-1a47f17b315c"
+        ],
+        "The Dmitrievs.png": [
+            "78e322f0-5a40-4829-9e56-f7bff1d2f69d"
+        ],
         "THE QUEEN (WLW)  Isolde Elenara.png": [],
         "Theo Francis.png": [],
-        "Theo Wilson ALT.png": [],
+        "Theo Wilson ALT.png": [
+            "bf0d3102-3b26-437d-8781-c09afe9aac8a"
+        ],
         "Theodore Lancaster.png": [],
-        "Theron.png": [],
+        "Theron.png": [
+            "73c6d9a7-03b1-4bf3-9c37-ee53141527be"
+        ],
         "Thirsty Vampire Situationship (WLW) - Bella.png": [],
         "Trisha Terrence ✦ Best Friend's Sister.png": [],
-        "Tristan Kingsley.png": [],
+        "Tristan Kingsley.png": [
+            "71a8baa0-f1a9-4175-b86e-0dd0b99284eb"
+        ],
         "Trixie Mullins  ᡣ𐭩Big brother's best friendᡣ𐭩.png": [],
         "Tyler Golds  ALT.png": [],
-        "Val Halloway  The Phantom.png": [],
-        "Valentino Maxwell.png": [],
-        "Valeria Kovacs The Beast  SBCF.png": [],
-        "Valerius Brothers.png": [],
+        "Val Halloway  The Phantom.png": [
+            "7d96fd08-1cd5-440d-981e-1a47f17b315c"
+        ],
+        "Valentino Maxwell.png": [
+            "d1384539-b908-451c-980c-6bf4fc4e3ee4"
+        ],
+        "Valeria Kovacs The Beast  SBCF.png": [
+            "c97c2881-37c6-4216-8e37-840c8b17fbcb"
+        ],
+        "Valerius Brothers.png": [
+            "752f044d-b0d9-4472-8997-8f3093651556"
+        ],
         "Vampire Hunter - Vida.png": [],
-        "Vaughn V de Vere.png": [],
-        "Vi.png": [],
+        "Vaughn V de Vere.png": [
+            "d1384539-b908-451c-980c-6bf4fc4e3ee4"
+        ],
+        "Vi.png": [
+            "e2e2b919-f413-428e-833c-fd36eb2c5def"
+        ],
         "Victoria Kensington.png": [],
-        "Victoria Paz  Vacation Housewives.png": [],
-        "Vincent & Andrew.png": [],
+        "Victoria Paz  Vacation Housewives.png": [
+            "e5b9dc3a-5bab-4d8b-b13f-5c339895fa4f"
+        ],
+        "Vincent & Andrew.png": [
+            "64184983-da6f-4bb8-a470-26b480849bdf",
+            "f3bc1d0a-29b9-4ce4-bc28-683dc2c37d2d"
+        ],
         "Vincent & Owen.png": [],
-        "Vincent1.png": [],
-        "Vladimir Dmitriev.png": [],
+        "Vincent1.png": [
+            "64184983-da6f-4bb8-a470-26b480849bdf",
+            "f3bc1d0a-29b9-4ce4-bc28-683dc2c37d2d"
+        ],
+        "Vladimir Dmitriev.png": [
+            "78e322f0-5a40-4829-9e56-f7bff1d2f69d"
+        ],
         "Waylon Romane.png": [],
         "Wesley Price.png": [],
         "WHITE QUEEN (WLW)  Lysandra.png": [],
         "WLW  Emerson Dunn1.png": [],
         "Wyatt Tucker ➤ Ironwood Ranch.png": [],
-        "Xavier.png": [],
+        "Xavier.png": [
+            "64184983-da6f-4bb8-a470-26b480849bdf",
+            "f3bc1d0a-29b9-4ce4-bc28-683dc2c37d2d"
+        ],
         "Your Bratty Sugar Baby Finn.png": [],
-        "Yulia Sokolov  Bodyguard.png": [],
         "Zaina 'Zay' Ríos.png": [],
         "Zane Ashford.png": [],
-        "ZANE DEMIGODS.png": [],
+        "ZANE DEMIGODS.png": [
+            "9d674272-8fd7-411e-83ec-4ef98cbe7b26"
+        ],
         "Zoey Thomas  WLW Rebel with a Heart.png": [],
-        "Zoya Krasnova.png": [],
-        "Zyran.png": [],
+        "Zoya Krasnova.png": [
+            "1de96a22-4e6b-4d86-be81-da550021605a"
+        ],
+        "Zyran.png": [
+            "73c6d9a7-03b1-4bf3-9c37-ee53141527be"
+        ],
         "Barbra Estep.png": [
             "98b83624-87d9-4565-92f2-54c506491c19"
         ],
@@ -3638,20 +3953,26 @@
         "Nina  The Velvet Mirage.png": [
             "c2697999-d285-4e88-b39d-6a6e064db57b"
         ],
-        "Mikey Ross.png": [],
+        "Mikey Ross.png": [
+            "6c03db26-c259-46ad-a4e1-ab3d8c5cfd49"
+        ],
         "Kellin Beckett.png": [
             "6c03db26-c259-46ad-a4e1-ab3d8c5cfd49"
         ],
         "Vic Havoc.png": [
             "6c03db26-c259-46ad-a4e1-ab3d8c5cfd49"
         ],
-        "Nena Fischer  Kappa Omega Theta.png": [],
+        "Nena Fischer  Kappa Omega Theta.png": [
+            "efdc35d0-ab45-4cf0-9156-f3389d1a5cf5"
+        ],
         "Lady Bonajade.png": [],
         "Jennifer Reyes.png": [],
         "Giselle Beaumont.png": [],
         "Megan Sterling.png": [],
         "Sandra Gallagher.png": [],
-        "Amirita Rita Levine.png": [],
+        "Amirita Rita Levine.png": [
+            "6ee404cb-f2cb-4af2-920d-a359044bbfe9"
+        ],
         "Penelope Nell Hayes.png": [],
         "Heather Sinclair.png": [],
         "Jordyn Ace Cooper.png": [],
@@ -3703,7 +4024,45 @@
         "Hwang Seiu.png": [
             "37385f6c-5580-4ff2-ac16-ef4a298f044d"
         ],
-        "Dinorah Cruz.png": []
+        "Dinorah Cruz.png": [],
+        "Anna Kolcheck.png": [
+            "da91201b-126b-4bd0-8692-5c0043f64e42"
+        ],
+        "403 Basement Boys.png": [
+            "96cc73b4-8e1d-4d12-9093-49451a32e8ea"
+        ],
+        "𝚂𝚎𝚛𝚊𝚙𝚑𝚒𝚗𝚎 𝚂𝚎𝚛𝚊 𝚅𝚎𝚢𝚕𝚊𝚗.png": [],
+        "𝙵𝚒𝚗𝚗 𝚅𝚊𝚛𝚗𝚊𝚍𝚘.png": [],
+        "𝙲𝚊𝚜𝚜𝚒𝚊 𝚃𝚘𝚛𝚛𝚎𝚜.png": [],
+        "𝚈𝚎𝚕𝚎𝚗𝚊 𝙼𝚘𝚛𝚘𝚣𝚘𝚟𝚊.png": [],
+        "𝚁𝚎𝚢𝚗𝚊 𝙲𝚛𝚘𝚜𝚜.png": [],
+        "𝐃𝐘𝐋𝐀𝐍 𝐃𝐀𝐖𝐒𝐎𝐍  𝐂𝐫𝐢𝐦𝐬𝐨𝐧 𝐖𝐨𝐥𝐯𝐞𝐬.png": [],
+        "009, Basement Boys.png": [
+            "96cc73b4-8e1d-4d12-9093-49451a32e8ea"
+        ],
+        "Anthony.png": [],
+        "Bloody Mary.png": [],
+        "Caleb Hughes  ALT.png": [
+            "bf0d3102-3b26-437d-8781-c09afe9aac8a"
+        ],
+        "Cian O'Raida1.png": [],
+        "Cole.png": [],
+        "Damian.png": [],
+        "Damon Westwood.png": [],
+        "Ezekiel1.png": [],
+        "Faust1.png": [],
+        "Rye De Vera.png": [],
+        "Ryota ALT.png": [],
+        "Slenderman.png": [],
+        "The Grudge.png": [],
+        "Zahir Currera.png": [],
+        "Zian Luo.png": [],
+        "Millie Duncan  Tutor (wlw).png": [],
+        "Mitzi Crew  Class President.png": [],
+        "𝙰𝚗𝚎𝚜𝚜𝚊 𝚆𝚎𝚕𝚕𝚜.png": [],
+        "Matilde Vance︲2005 ALT.png": [],
+        "Rowan Callahan︲Between the Covers.png": [],
+        "RUIN (WLW)  Thalia Morcant.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
