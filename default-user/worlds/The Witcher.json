@@ -9,7 +9,7 @@
                 "Gwynbleidd."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Geralt of Rivia",
             "content": "Geralt is a renowned witcher from the School of the Wolf. Known for his distinctive white hair and his unmatched skill in monster hunting, Geralt is a master of his craft, hardened by his harsh training and countless battles.",
             "constant": false,
             "selective": true,
@@ -48,7 +48,7 @@
                 "Ciri's Mother Figure"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Yennefer of Vengerberg",
             "content": "Yennefer is a powerful sorceress hailing from Vengerberg. Her beauty and intelligence are matched only by her magical ability. Yennefer shares a complex relationship with Geralt and serves as a mother figure to Ciri.",
             "constant": false,
             "selective": true,
@@ -87,7 +87,7 @@
                 "Princess of Cintra."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Ciri",
             "content": "Ciri is the biological daughter of Pavetta, princess of Cintra, and Duny, also known as Emhyr var Emreis. She is also Geralt and Yennefer's adopted daughter. Blessed with the Elder Blood, Ciri is destined for great and terrible things.",
             "constant": false,
             "selective": true,
@@ -126,7 +126,7 @@
                 "Member of the Lodge of Sorceresses."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Triss Merigold",
             "content": "Triss is a bright and caring sorceress who maintains a close relationship with Geralt and Yennefer. She is a member of the Lodge of Sorceresses and plays a key role in many significant events on the Continent.",
             "constant": false,
             "selective": true,
@@ -164,7 +164,7 @@
                 "Chronicler"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Dandelion - Bard",
             "content": "Dandelion is a flamboyant bard and Geralt's close friend. His tales and songs, often exaggerated and romanticized, have made Geralt's exploits known throughout the Continent.",
             "constant": false,
             "selective": true,
@@ -203,7 +203,7 @@
                 "Veteran of the Second Nilfgaard War"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Zoltan Chivay",
             "content": "Zoltan is a brave and loyal dwarf who has fought in many wars. His friendship with Geralt has led to numerous adventures and close shaves.",
             "constant": false,
             "selective": true,
@@ -242,7 +242,7 @@
                 "Keeper of Kaer Morhen"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Vesemir",
             "content": "Vesemir is the oldest and most experienced witcher from the School of the Wolf. He trained Geralt and many others, and is the keeper of the witchers' fortress, Kaer Morhen.",
             "constant": false,
             "selective": true,
@@ -280,7 +280,7 @@
                 "Father of Ciri"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Emhyr var Emreis",
             "content": "Emhyr is the powerful and cunning emperor of Nilfgaard, also known as the White Flame Dancing on the Graves of his Foes. He is Ciri's biological father and has a complex relationship with her and Geralt.",
             "constant": false,
             "selective": true,
@@ -318,7 +318,7 @@
                 "Advisor to King Vizimir"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Philippa Eilhart - Sorceress",
             "content": "Philippa is one of the most influential and powerful sorceresses on the Continent. She is the leader of the Lodge of Sorceresses and was once the advisor to the king of Redania.",
             "constant": false,
             "selective": true,
@@ -356,7 +356,7 @@
                 "Friend of Geralt"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Regis",
             "content": "Despite being a vampire, Regis defies the stereotype of his kind, choosing to live peacefully among humans. His wisdom and unique abilities have proven valuable in Geralt's quests.",
             "constant": false,
             "selective": true,
@@ -394,7 +394,7 @@
                 "Loyal to Temeria."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Roche",
             "content": "Vernon Roche is the leader of the Blue Stripes, the special forces group of the Kingdom of Temeria. His loyalty to his kingdom is unwavering, and he's a valuable ally to Geralt in his quests.",
             "constant": false,
             "selective": true,
@@ -432,7 +432,7 @@
                 "Friend of Geralt"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Shani",
             "content": "Shani is a talented and dedicated medic who has helped Geralt on more than one occasion. Her medical knowledge and practical skills have proved invaluable, and she shares a warm, personal relationship with Geralt.",
             "constant": false,
             "selective": true,
@@ -470,7 +470,7 @@
                 "Navigator of Worlds."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Eredin",
             "content": "Eredin Breacc Glas is the formidable leader of the spectral riders known as the Wild Hunt. He seeks Ciri for her Elder Blood, which can be used to navigate between worlds.",
             "constant": false,
             "selective": true,
@@ -508,7 +508,7 @@
                 "Friend to Ciri."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Avallac'h",
             "content": "Avallac'h is an Elven Sage and an expert on the Elder Blood. He helps Ciri control her powers and has a complex relationship with Geralt and Yennefer.",
             "constant": false,
             "selective": true,
@@ -546,7 +546,7 @@
                 "Hjalmar's Sister."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Cerys an Craite",
             "content": "Cerys is a smart and brave leader, proving her worth in a culture that values strength and courage. Her innovative ideas and leadership make her a beloved queen of Skellige.",
             "constant": false,
             "selective": true,
@@ -584,7 +584,7 @@
                 "Cerys's Brother."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Hjalmar an Craite",
             "content": "Hjalmar is a brave and daring warrior known for his bold exploits. He is always eager for a challenge and is deeply loyal to his family and his people.",
             "constant": false,
             "selective": true,
@@ -622,7 +622,7 @@
                 "Friend to Geralt."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Lambert",
             "content": "Lambert is a witcher from the School of the Wolf, like Geralt. He's known for his sharp tongue and quick wit, but he's a reliable ally when it counts.",
             "constant": false,
             "selective": true,
@@ -660,7 +660,7 @@
                 "Friend to Geralt."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Eskel",
             "content": "He's more reserved than Lambert, and his calm demeanor and steady hand make him a valued friend and ally.",
             "constant": false,
             "selective": true,
@@ -698,7 +698,7 @@
                 "Member of the Lodge of Sorceresses."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Keira Metz",
             "content": "Keira is a charming and clever sorceress who uses her magical abilities and wits to navigate the dangerous world of politics. She's known to have a somewhat frivolous lifestyle, but she is also a resourceful ally.",
             "constant": false,
             "selective": true,
@@ -736,7 +736,7 @@
                 "Leader of the Scoia'tael."
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Iorveth",
             "content": "Iorveth is a fierce elf warrior who leads a commando unit of the Scoia'tael, or 'Squirrels'. He fights for the rights and freedom of non-humans in a world that often treats them with prejudice and hostility.",
             "constant": false,
             "selective": true,
@@ -775,7 +775,7 @@
                 "Aerial Predator"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Griffin",
             "content": "Griffins are majestic, fearsome creatures often found in mountainous regions of the Continent. With the body of a lion and the wings and head of an eagle, these hybrids are known for their strength and deadly aerial attacks. Their weaknesses include the use of a silver sword, hybrid oil, and the Aard sign which can force them to the ground for melee combat.",
             "constant": false,
             "selective": true,
@@ -814,7 +814,7 @@
                 "Control Over Nature"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Leshen",
             "content": "Leshens are ancient, towering relicts that dwell within dense forests. They can control the plants and animals within their territory, making them formidable opponents. They are weak against relic oil, Igni, and Quen signs. It is also advised to kill the animals they are connected with to weaken them.",
             "constant": false,
             "selective": true,
@@ -853,7 +853,7 @@
                 "Aggressive"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Drowner",
             "content": "Drowners are aggressive necrophages that typically inhabit rivers, lakes, and other bodies of water. They appear humanoid but exhibit grotesque, aquatic adaptations. They are known to attack travelers near their territory, especially at night. Their weaknesses include necrophage oil and the Igni sign, which can set them ablaze.\n\n",
             "constant": false,
             "selective": true,
@@ -892,7 +892,7 @@
                 "Hypnotic Third Eye"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Fiend",
             "content": "Fiends are massive, chort-like creatures that inhabit the wilderness. They are known for their third eye, which they use to hypnotize their prey. They can be challenging to fight due to their size and strength. Their weaknesses include relic oil and the Samum or Northern Wind bombs, which can blind them.",
             "constant": false,
             "selective": true,
@@ -931,7 +931,7 @@
                 "Phase Shifting"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Wraith",
             "content": "Wraiths are specters often found in haunted locations like cemeteries, battlefields, or ruins. They can become immaterial, making physical attacks pass right through them. They become vulnerable when hit with the Yrden sign, which forces them into a corporeal state. Specter oil enhances damage against them.",
             "constant": false,
             "selective": true,
@@ -970,7 +970,7 @@
                 "Carrion Eaters"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Ghoul",
             "content": "Ghouls are common necrophages found on battlefields or places where death has recently occurred. They feed on corpses and are aggressive towards the living. Their weaknesses include necrophage oil and the Axii sign, which can stun them momentarily.",
             "constant": false,
             "selective": true,
@@ -1009,7 +1009,7 @@
                 "Transformation"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Werewolf",
             "content": "Werewolves are humans cursed to transform into wolf-like creatures. They are found mostly in forests and are known for their speed, strength, and regenerative abilities. Their weaknesses include cursed oil, the Igni sign, and they can be forced out of their transformation by the use of the Moon Dust bomb.",
             "constant": false,
             "selective": true,
@@ -1048,7 +1048,7 @@
                 "Petrifying Gaze"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Cockatrice",
             "content": "Cockatrices are hybrid creatures often found in dark, secluded places like caves or crypts. They are known for their ability to petrify prey with their gaze. Their weaknesses include hybrid oil, the Aard sign to keep them grounded, and the Quen sign to shield from their attacks.",
             "constant": false,
             "selective": true,
@@ -1087,7 +1087,7 @@
                 "Unpredictable"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Chaos",
             "content": "Chaos is the raw, elemental force from which all magic is derived. It is a volatile and unpredictable energy that exists everywhere in the universe. Those who can harness and channel this force can perform what is commonly referred to as magic. However, controlling Chaos requires immense willpower and skill, as misuse can result in catastrophic consequences.",
             "constant": false,
             "selective": true,
@@ -1126,7 +1126,7 @@
                 "Enhancement"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Alchemy",
             "content": "Alchemy is a unique form of magic practiced by witchers and some mages. It involves the creation of potions, decoctions, and bombs using various ingredients, many of which are magical or alchemical in nature. Witchers use alchemy to enhance their physical abilities, heal wounds, and create weapons effective against specific monsters. The process of becoming a witcher also involves alchemical mutations.",
             "constant": false,
             "selective": true,
@@ -1165,7 +1165,7 @@
                 "Simple Spells"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Signs",
             "content": "Signs are basic magic spells used by witchers. They do not require complex incantations or rituals, making them useful in combat situations. There are five signs: Aard (telekinetic force), Igni (fire manipulation), Yrden (magical trap), Quen (protective shield), and Axii (mind control). While not as powerful as the spells cast by mages, they provide witchers with versatile tools in their monster-hunting endeavors.",
             "constant": false,
             "selective": true,
@@ -1204,7 +1204,7 @@
                 "Ciri's Lineage"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Elder Blood",
             "content": "Elder Blood refers to a genetic trait found in the lineage of Lara Dorren, an elf of the Aen Seidhe. This trait allows the manipulation of space and time, a rare and powerful form of magic. The most notable carrier of this gene in the Witcher series is Ciri, who uses this power in various ways throughout her journey.",
             "constant": false,
             "selective": true,
@@ -1243,7 +1243,7 @@
                 "Requires Control"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Artifacts",
             "content": "Artifacts are objects imbued with magical properties. They come in various forms, such as weapons, amulets, rings, and even seemingly mundane items. The powers of these artifacts can range from simple enhancements to formidable spells. However, using these artifacts often requires knowledge and control over magic, as misuse can lead to dangerous outcomes.",
             "constant": false,
             "selective": true,
@@ -1282,7 +1282,7 @@
                 "Dangerous"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Sources",
             "content": "Sources are individuals who possess innate magical abilities. These abilities are often uncontrollable and can manifest in unpredictable and destructive ways. Sources are potentially incredibly powerful, but they require guidance and training to control their abilities. Without proper training, a Source can pose a danger to themselves and those around them.",
             "constant": false,
             "selective": true,
@@ -1321,7 +1321,7 @@
                 "Requires Knowledge"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Rituals and Spells",
             "content": "Rituals and spells are complex forms of magic that can produce a wide range of effects. These can include healing, divination, transformation, and even resurrection. However, casting these spells requires in-depth knowledge of magic and often involves the use of specific materials or conditions.",
             "constant": false,
             "selective": true,
@@ -1359,7 +1359,7 @@
                 "Nilfgaardian Empire"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "The Continent",
             "content": "The Continent is vastly divided into Northern Kingdoms to the north and the Nilfgaardian Empire to the south, each with their distinct political structures, cultures, and histories.",
             "constant": false,
             "selective": true,
@@ -1404,7 +1404,7 @@
                 "Skellige"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Temeria",
             "content": "These are the Northern Kingdoms, each with its unique history and culture. Once independent states, they were consolidated into larger kingdoms over centuries through a complex series of wars, alliances, and political maneuvering.",
             "constant": false,
             "selective": true,
@@ -1444,7 +1444,7 @@
                 "Vengerberg"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Novigrad",
             "content": "These are the major cities within the Northern Kingdoms. Novigrad, a bustling port city, is known for its tremendous wealth and equally massive corruption. Oxenfurt, famed for its prestigious academy, is the intellectual heart of the north. Vizima, the capital of Temeria, stands as a symbol of resilience and strength. Tretogor, the capital of Redania, is a city filled with intrigue and political machinations. Vengerberg, the capital of Aedirn, is a place of magical interest and arcane studies.",
             "constant": false,
             "selective": true,
@@ -1482,7 +1482,7 @@
                 "Nazair"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Metinna",
             "content": "These provinces mark the Nilfgaardian Empire's frontline and serve as the first line of defense against the Northern Kingdoms. Their strategic importance has made them hotbeds of conflict and power struggles.",
             "constant": false,
             "selective": true,
@@ -1518,7 +1518,7 @@
                 "Velen"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Velen",
             "content": "Known as the No Man's Land, this remote swamp region east of Temeria bears the scars of numerous wars with Nilfgaard. Its harsh environment and war-torn history make it a dangerous place for travelers.",
             "constant": false,
             "selective": true,
@@ -1554,7 +1554,7 @@
                 "White Orchard"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "White Orchard",
             "content": "This serene village in the northern frontier of Temeria, near the border with Redania, is a stark contrast to the war-ravaged regions. However, its tranquillity belies the undercurrents of political tension.",
             "constant": false,
             "selective": true,
@@ -1590,7 +1590,7 @@
                 "Brokilon Forest"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Brokilon Forest",
             "content": "This vast forest southwest of Temeria is the domain of the enigmatic dryads. It is a place of ancient magic and nature, with intruders often never returning from its dense and mysterious undergrowth.",
             "constant": false,
             "selective": true,
@@ -1626,7 +1626,7 @@
                 "Kaer Morhen"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Kaer Morhen",
             "content": "This remote fortress in the far north is the ancestral home of the Witchers from the School of the Wolf. Its austere and remote location adds to the mystique and reverence for the legendary monster hunters.",
             "constant": false,
             "selective": true,
@@ -1662,7 +1662,7 @@
                 "Skellige"
             ],
             "keysecondary": [],
-            "comment": "",
+            "comment": "Skellige",
             "content": "This rocky, windswept archipelago is home to fierce warrior clans and hardy sailors. Its inhabitants are known for their bravery, navigating the treacherous waters and weathering the harsh winters with a stubborn resilience.",
             "constant": false,
             "selective": true,
