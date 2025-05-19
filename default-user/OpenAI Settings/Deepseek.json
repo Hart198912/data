@@ -38,7 +38,7 @@
     "wrap_in_quotes": false,
     "names_behavior": 0,
     "send_if_empty": "",
-    "impersonation_prompt": "[Write your next reply from the point of view of {{char}}, using the chat history so far as a guideline for the writing style of {{char}}. Don't write as {{user}} or system. Don't describe actions of {{user}}.]",
+    "impersonation_prompt": "[Write your next reply from the point of view of {{user}}, using the chat history so far as a guideline for the writing style of {{user}}. Don't write as {{char}} or system. Don't describe actions of {{char}}.]",
     "new_chat_prompt": "[Start a new Chat]",
     "new_group_chat_prompt": "[Start a new group chat. Group members: {{group}}]",
     "new_example_chat_prompt": "[Example Chat]",
